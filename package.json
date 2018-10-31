@@ -1,0 +1,23 @@
+{
+  "name": "dd-productinfo-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaDrop/dd-ProductInfo-Proxy.git"
+  },
+  "author": "JCS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaDrop/dd-ProductInfo-Proxy/issues"
+  },
+  "homepage": "https://github.com/DeltaDrop/dd-ProductInfo-Proxy#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
